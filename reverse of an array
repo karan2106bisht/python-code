@@ -1,0 +1,3 @@
+my_array = [10,5,34,65,1]
+reversed_array = list(reversed(my_array))
+print(reversed_array)
